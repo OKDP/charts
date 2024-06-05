@@ -1,0 +1,8 @@
+lint-conf: .lintconf.yaml
+remote: origin
+target-branch: main
+chart-dirs:
+  - .
+chart-repos:
+- superset=https://apache.github.io/superset
+- bitnami=https://charts.bitnami.com/bitnami
