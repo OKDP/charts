@@ -6,3 +6,4 @@ chart-dirs:
 chart-repos:
 - superset=https://apache.github.io/superset
 - bitnami=https://charts.bitnami.com/bitnami
+debug: true
