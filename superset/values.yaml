@@ -35,7 +35,7 @@ okdp:
     #
     # See also <a href='https://superset.apache.org/docs/configuration/configuring-superset/#superset_configpy'>Superset configuration.</a>
     # @section -- OKDP Specifc configuration
-    superset_secret_key: ""
+    superset_secret_key: "bnAL0bMMkEeQuw5ZOsFNrO5FGRmBFJwYIlkU3qoFU0txlvFJkLurRw9k"
     # -- Define superset extra configuration as python code
     # @notationType -- python
     # @section -- OKDP Specifc configuration
