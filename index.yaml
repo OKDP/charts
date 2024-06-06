@@ -1,5 +1,29 @@
 apiVersion: v1
 entries:
+  spark-history-server:
+  - apiVersion: v2
+    appVersion: 3.5.1
+    created: "2024-06-06T15:25:14.289358258Z"
+    description: A Helm chart for the Spark-History-Server
+    digest: ac726232b7a5427e0229c30b1e7f26d27a2925afbba756be1005eccf025cbd68
+    home: https://spark.apache.org
+    keywords:
+    - spark
+    - spark-history
+    - spark-history-server
+    maintainers:
+    - email: moncef.lahouar@kubotal.io
+      name: mlahouar
+      url: https://github.com/mlahouar
+    name: spark-history-server
+    sources:
+    - https://github.com/apache/spark
+    - https://github.com/OKDP/okdp-spark-auth-filter
+    - https://github.com/OKDP/spark-images
+    - https://github.com/okdp/charts/tree/main/charts/spark-history-server
+    urls:
+    - https://github.com/OKDP/charts/releases/download/spark-history-server-v1.0.0/spark-history-server-1.0.0.tgz
+    version: 1.0.0
   superset:
   - apiVersion: v2
     appVersion: 4.0.0
@@ -55,4 +79,4 @@ entries:
     urls:
     - https://github.com/OKDP/charts/releases/download/superset-v0.12.10-rc.1/superset-0.12.10-rc.1.tgz
     version: 0.12.10-rc.1
-generated: "2024-06-06T15:24:50.72559652Z"
+generated: "2024-06-06T15:25:14.289376492Z"
