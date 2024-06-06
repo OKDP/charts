@@ -3,14 +3,9 @@
 [![License Apache2](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 <p align="center">
-    <img width="400px" height=auto src="https://okdp.io/logos/okdp-notext.svg" />
-</p>
-<p align="center">
-  OKDP - Open Kubernetes Data Platform
+    <img width="400px" height=auto src="docs/logo/inverted/okdp-inverted.png" />
 </p>
 
-</br>
-</br>
 
 Provides a collection of [helm](https://helm.sh/) charts used by the [okdp](https://okdp.io) Platform.
 
