@@ -1,0 +1,19 @@
+apiVersion: v2
+name: spark-history-server
+description: A Helm chart for the Spark-History-Server
+version: 1.0.0
+appVersion: "3.5.1"
+keywords:
+  - spark
+  - spark-history
+  - spark-history-server
+home: https://spark.apache.org
+maintainers:
+  - email: moncef.lahouar@kubotal.io
+    name: mlahouar
+    url: https://github.com/mlahouar
+sources:
+  - https://github.com/apache/spark
+  - https://github.com/OKDP/okdp-spark-auth-filter
+  - https://github.com/OKDP/spark-images
+  - https://github.com/okdp/charts/tree/main/charts/spark-history-server
