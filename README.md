@@ -1,12 +1,6 @@
 <p align="center">
-    <img width="400px" height=auto src="https://okdp.io/logos/okdp-notext.svg" />
+    <img width="400px" height=auto src="logo/inverted/okdp-inverted.png" />
 </p>
-<p align="center">
-  OKDP - Open Kubernetes Data Platform
-</p>
-
-</br>
-</br>
 
 Provides a collection of [helm](https://helm.sh/) charts used by the [okdp](https://okdp.io) Platform.
 
