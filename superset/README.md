@@ -40,7 +40,7 @@ Objectively, the chart provides the following features:
 ## TL;DR
 
 ```console
-$ helm repo add odkp http://okdp.github.io/charts
+$ helm repo add odkp https://okdp.github.io/charts
 $ helm install my-superset odkp/superset
 ```
 

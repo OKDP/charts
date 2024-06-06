@@ -17,7 +17,7 @@ Provides a collection of [helm](https://helm.sh/) charts used by the [okdp](http
 ## TL;DR
 
 ```console
-$ helm repo add odkp http://okdp.github.io/charts/
+$ helm repo add odkp https://okdp.github.io/charts/
 $ helm install my-release odkp/[chart]
 ```
 
