@@ -27,33 +27,6 @@ entries:
   superset:
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2024-06-06T13:58:58.450764129Z"
-    dependencies:
-    - name: superset
-      repository: https://apache.github.io/superset
-      version: 0.12.10
-    description: Apache Superset is a modern, enterprise-ready business intelligence
-      web application
-    digest: 801323f879645b41ca3673f8b1c50539473580865b8bf050b5f82569ea6d6679
-    home: https://superset.apache.org/
-    icon: https://artifacthub.io/image/68c1d717-0e97-491f-b046-754e46f46922@2x
-    keywords:
-    - business intelligence
-    - data science
-    - okdp
-    maintainers:
-    - email: idir.izitounene@kubotal.io
-      name: idirze
-      url: https://github.com/idirze
-    name: superset
-    sources:
-    - https://github.com/apache/superset
-    - https://github.com/okdp/charts/tree/main/charts/superset
-    urls:
-    - https://github.com/OKDP/charts/releases/download/superset-v0.12.10-rc.1/superset-0.12.10-rc.1.tgz
-    version: 0.12.10-rc.1
-  - apiVersion: v2
-    appVersion: 4.0.0
     created: "2024-06-06T15:24:50.725583926Z"
     dependencies:
     - name: superset
